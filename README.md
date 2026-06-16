@@ -1,0 +1,1 @@
+A responsive digital wedding invitation website featuring event schedules, countdown timers, guest comment sections, and integrated maps for easy venue navigation. Designed with an elegant interface and optimized for both desktop and mobile devices, providing a complete and engaging experience for couples and guests.

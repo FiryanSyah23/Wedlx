@@ -1,6 +1,6 @@
 simplyCountdown(".simply-countdown", {
-  year: 2024,
-  month: 12,
+  year: 2026,
+  month: 8,
   day: 25,
   hours: 8,
   words: {
